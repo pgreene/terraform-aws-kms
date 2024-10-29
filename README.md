@@ -1,2 +1,2 @@
 # terraform-aws-kms
-Terraform module for AWS KMS
+Terraform Module for AWS KMS
